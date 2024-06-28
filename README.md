@@ -15,5 +15,5 @@ A ping pong game simulation using genetic algorithms to train AI agents.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Genetic-Algo-Ping-Pong-Game.git
+   git clone https://github.com/mridul_249/Genetic-Algo-Ping-Pong-Game.git
    cd Genetic-Algo-Ping-Pong-Game
